@@ -28,14 +28,6 @@ Projects
 
 ---
 
-About These Projects
-
-These scripts were designed to make bioinformatics workflows at CHOP smoother and less repetitive.  
-They helped with things like tracking samples, managing files, and automating routine steps.  
-Working on them gave me the chance to solve real-world problems while learning how research teams handle large amounts of data.
-
----
-
 Contact
 
 - GitHub: (https://github.com/neilc4)  
