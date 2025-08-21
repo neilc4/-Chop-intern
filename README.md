@@ -38,5 +38,5 @@ Working on them gave me the chance to solve real-world problems while learning h
 
 Contact
 
-- GitHub: [NeilC](https://github.com/neilc4)  
+- GitHub: (https://github.com/neilc4)  
 - LinkedIn: https://www.linkedin.com/in/neil-choudhary-6440a5380/
